@@ -1,0 +1,6 @@
+streamlit
+pyswisseph
+google-generativeai
+geopy
+pytz
+timezonefinder
